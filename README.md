@@ -1,5 +1,4 @@
 # Pomodoro App
-![](https://cdn-images-1.medium.com/max/880/1*usZAFrV70goblyvT6zfFcA.jpeg)
 
 Completed this project as a demo for Learning Dollars and part of the freeCodeCamp Front End Development Certificate. 
 
