@@ -58,6 +58,9 @@ h1 {
 .btn:focus {
   outline: none;
 }
+button:focus {
+  outline: none;
+}
 #start-btn {
   height: 40px;
   width: 90px;
