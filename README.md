@@ -8,6 +8,6 @@ I had to fulfil the following user stories:
 * I can reset the clock for my next pomodoro.
 * I can customize the length of each pomodoro.
 
-You can view the project live [here](https://codepen.io/cynthiaLixinLee/pen/xWzdRK).
+You can view the project live [here](https://pomodoroh.netlify.app).
 
  
